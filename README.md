@@ -33,6 +33,7 @@ Windows Update [X]
 Printers & Scanners [X]
 
 > **Not:**
+
 PC Optimizasyonunu LAPTOP ve Intel GPU olan cihazlarında yapmıyorum.(çünkü neredeyse hiç fark olmuyor.)
 Yukarıda çalışmayan uygulamalar arasında görmediğiniz uygulamaları ticket açarak bildirirseniz size geri dönüş yapabilirim.
 VALORANT oyununda FPS farkı olmadı derseniz işlemcinizin iyi olması lazım.
@@ -40,6 +41,7 @@ Diğer oyunlarda gözle görülebilir hiç fark olmadı derseniz sizin sistemini
 Ayrıca optimizasyon yaptırmayı düşünüyosan #ticket açarak bana bilgisayar donanımlarını gönderebilirsin.
 
 > **Satın almak için;**
+
 Ödeme yöntemlerine #ödeme odasından bakabilirsiniz.
 Eğer ödeme yaptıysanız #ticket odasından ticket açarak işlemlere başlayabiliriz.
 Başka sorularınız için @vutu#9696'ya yazabilirsiniz
