@@ -42,4 +42,4 @@ Printers & Scanners [X]<br>
 
 * **For buy;**
 
-> Payment methods or if you want to talk to me, you can reach me via this [link](https://discord.com/users/333697573980340225).
+> Payment methods or if you want to talk to me, you can reach me on this [link](https://discord.com/users/333697573980340225).
