@@ -4,7 +4,7 @@ Kendim yaptığım bir windows iso dosyası ile ve yaklaşık 2.5 yıldır araş
 
 * **Bilgisayarın nasıl optimize olucak?**
 
-> **[Paket 1]** - Kendim yapmış olduğum V2OS(Özelleştirilmiş Windows 10) ve birlikte V2PACK paketi ile optimize ediliyor. Bu en sağlıklısı olucaktır.<br>
+> **[Paket 1]** - Kendim yapmış olduğum **V2OS**(Özelleştirilmiş Windows 10) ve birlikte V2PACK paketi ile optimize ediliyor. Bu en sağlıklısı olucaktır.<br>
 **[Paket 2]** - Sadece V2PACK paketini satın almak. FPS Artışında gözle görülebilir bir fark olmayabilir.
 
 * **Sizin üstünüze düşen görevler nedir?**
@@ -19,7 +19,7 @@ FPS artışının yanında oyununuz daha akıcı olacaktır.(Paket farkları ola
 * **V2PACK'in yaptığı bir kaç özellikler:**
 
 > CPU / GPU(NVIDIA - AMD) / Internet / Ram / Depolama gibi bir çok donanımda overclock yapılmadan hali hazırda bilgisayarınızın ayarlarında bulunan özellikleri kullanarak iyileştirmeler yapmakta.
-
+>
 > Ekstra olarak Windows'un içinde gereksiz olarak gördüğüm animasyonlar/privacy/arkaplan uygulamaları gibi önemsiz ayarları otomatik olarak kapatıyor;
 Windows Ethernet ayarları gibi ayarlama pencereleri açılmayabilir fakat Control Panel'den bütün ayarları yapabilirsiniz.<br>
 Printers & Scanners<br>
