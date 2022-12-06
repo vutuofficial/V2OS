@@ -3,17 +3,21 @@
 Kendim yaptığım bir windows iso dosyası ile ve yaklaşık 2.5 yıldır araştırdığım, internette bulduğum bilgisayarı iyileştiren, input lag'ınızı minimum seviyeye düşüren ve performansını arttıran yazılımlarla bilgisayar donanımlarınıza hiç zarar vermeden bilgisayarınızı optimize ediyorum.
 
 > **Bilgisayarın nasıl optimize olucak?**
+
 Paket 1 - Kendim yapmış olduğum V2OS(Özelleştirilmiş Windows 10) ve birlikte V2PACK paketi ile optimize ediliyor. Bu en sağlıklısı olucaktır.
 Paket 2 - Sadece V2PACK paketini satın almak. FPS Artışında gözle görülebilir bir fark olmayabilir.
 
 > **Sizin üstünüze düşen görevler nedir?**
+
 Anydesk ile bilgisayarınıza bağlanıp gereken işlemleri ben halledeceğim. Eğer Paket 1'i aldıysanız PC'nize format atılacağı için discord üzerinden kamera açmanız gerekebilir.
 
 > **Paket tamamlandıktan sonra sonuçlar ne olacaktır?**
+
 Input Lag'ınız(Giriş Gecikmesi) minimum seviyeye düşmüş olacaktır.
 FPS artışının yanında oyununuz daha akıcı olacaktır.(Paket farkları olabilir.)
 
 > **V2PACK'in yaptığı bir kaç özellikler:**
+
 CPU / GPU(NVIDIA - AMD) / Internet / Ram / Depolama gibi bir çok donanımda overclock yapılmadan hali hazırda bilgisayarınızın ayarlarında bulunan özellikleri kullanarak iyileştirmeler yapmakta.
 
 Ekstra olarak Windows'un içinde gereksiz olarak gördüğüm animasyonlar/privacy/arkaplan uygulamaları gibi önemsiz ayarları otomatik olarak kapatıyor;
