@@ -38,8 +38,7 @@ Printers & Scanners [X]<br>
 > **[1]** PC Optimizasyonunu LAPTOP ve Intel GPU olan cihazlarında yapmıyorum.(çünkü neredeyse hiç fark olmuyor.)<br>
 **[2]** Yukarıda çalışmayan uygulamalar arasında görmediğiniz uygulamaları ticket açarak bildirirseniz size geri dönüş yapabilirim.<br>
 **[3]** VALORANT oyununda FPS farkı olmadı derseniz işlemcinizin iyi olması lazım.<br>
-**[4]** Diğer oyunlarda gözle görülebilir hiç fark olmadı derseniz sizin sisteminizin donanımları düşüktür ve dediğim gibi yazılımlarla PC'nizi iyileştirmeye çalışıyorum herhangi bi Overclock işlemi yoktur.<br>
-**[5]** Ayrıca optimizasyon yaptırmayı düşünüyosan #ticket açarak bana bilgisayar donanımlarını gönderebilirsin.<br>
+**[4]** Diğer oyunlarda gözle görülebilir hiç fark olmadı derseniz sizin sisteminizin donanımları düşüktür ve dediğim gibi yazılımlarla PC'nizi iyileştirmeye çalışıyorum herhangi bi Overclock işlemi yoktur.
 
 * **Satın almak için;**
 
