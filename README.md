@@ -1,4 +1,4 @@
-[Read in English](https://github.com/vutuofficial/V2OS/blob/main/english.md)
+[Read in English](https://github.com/vutuofficial/V2OS/blob/main/ENGLISH.md)
 # <h1 align="center"> ![V2OS](https://github.com/vutuofficial/V2OS/blob/main/logo.png "Logo")</h1>
 
 Kendim yaptığım bir windows iso dosyası ile ve yaklaşık 2.5 yıldır araştırdığım, internette bulduğum bilgisayarı iyileştiren, input lag'ınızı minimum seviyeye düşüren ve performansını arttıran yazılımlarla bilgisayar donanımlarınıza hiç zarar vermeden bilgisayarınızı optimize ediyorum.
