@@ -44,4 +44,4 @@ Ayrıca optimizasyon yaptırmayı düşünüyosan #ticket açarak bana bilgisaya
 
 Ödeme yöntemlerine #ödeme odasından bakabilirsiniz.
 Eğer ödeme yaptıysanız #ticket odasından ticket açarak işlemlere başlayabiliriz.
-Başka sorularınız için @vutu#9696'ya yazabilirsiniz
+Başka sorularınız için [vutu#9696](discord.com/users/333697573980340225)'ya yazabilirsiniz
