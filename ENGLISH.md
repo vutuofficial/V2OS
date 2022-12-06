@@ -37,8 +37,7 @@ Printers & Scanners [X]<br>
 > **[1]** I don't do PC Optimization on LAPTOP and Intel GPU devices (because there is almost no difference.)<br>
 **[2]** If you open a ticket and report the applications that you do not see among the applications that are not working above, I can get back to you.<br>
 **[3]** If you say that there is no FPS difference in VALORANT game, your processor must be good.<br>
-**[4]** If you say that there is no visible difference in other games, your system's hardware is low and as I said, I am trying to improve your PC with software. There is no overclocking process.<br>
-**[5]** Also, if you are thinking of optimizing, you can open a #ticket and send me your computer hardware.<br>
+**[4]** If you say that there is no visible difference in other games, your system's hardware is low and as I said, I am trying to improve your PC with software. There is no overclocking process.
 
 * **For buy;**
 
