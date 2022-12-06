@@ -1,4 +1,3 @@
-[Read in English](https://discord.com/users/333697573980340225)
 # <h1 align="center"> ![V2OS](https://raw.githubusercontent.com/vutuofficial/V2OS/main/logo.png?token=GHSAT0AAAAAAB2VCLRTQXZYWEAKKYGYXLESY4OSDVA "Logo")</h1>
 
 With a windows iso file I made myself and with software that I have been researching for about 2.5 years, improving the computer I found on the internet, minimizing your input lag and increasing its performance, I optimize your computer without damaging your computer hardware.
