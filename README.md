@@ -1,4 +1,4 @@
-# <h1 align="center"> ![suwi](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "V2OS Logo")</h1>
+# <h1 align="center"> ![suwi](https://raw.githubusercontent.com/vutuofficial/V2OS/main/logo.png?token=GHSAT0AAAAAAB2VCLRSHXRJLTMTW3APLQDQY4OSCLA "V2OS Logo")</h1>
 
 Kendim yaptığım bir windows iso dosyası ile ve yaklaşık 2.5 yıldır araştırdığım, internette bulduğum bilgisayarı iyileştiren, input lag'ınızı minimum seviyeye düşüren ve performansını arttıran yazılımlarla bilgisayar donanımlarınıza hiç zarar vermeden bilgisayarınızı optimize ediyorum.
 
